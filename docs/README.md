@@ -430,12 +430,14 @@ This structure demonstrates how healthcare data can be organized to support both
 ## Repository Structure
 
 ```text
-Healthcare-Management-PowerBI/
-│
-├── Health_Care_Management.pbix
+healthcare-management-powerbi/
 ├── README.md
-│
+├── powerbi/
+│   └── Health Care Management Proj2.pbix
+├── screenshots/
+│   └── Dashboard screenshot files (.png)
 └── docs/
+    ├── README.md
     ├── Data_Dictionary.md
     ├── Data_Quality.md
     ├── Methodology.md
