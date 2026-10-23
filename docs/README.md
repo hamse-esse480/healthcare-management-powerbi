@@ -76,7 +76,7 @@ The dashboard uses analytical measures including:
 
 Detailed measure definitions and implementation notes are available in:
 
-**[DAX Measures Documentation →](docs/DAX_Measures.md)**
+**[DAX Measures Documentation →](DAX_Measures.md)**
 
 ---
 
@@ -348,7 +348,7 @@ Findings & Interpretation
 
 Detailed methodology is available in:
 
-**[Methodology Documentation →](docs/Methodology.md)**
+**[Methodology Documentation →](Methodology.md)**
 
 ---
 
@@ -364,7 +364,7 @@ The data-quality documentation separates:
 
 This approach avoids presenting unsupported data-quality claims as measured results.
 
-**[View Data Quality Documentation →](docs/Data_Quality.md)**
+**[View Data Quality Documentation →](Data_Quality.md)**
 
 ---
 
@@ -372,7 +372,7 @@ This approach avoids presenting unsupported data-quality claims as measured resu
 
 The data dictionary documents the variables and fields used within the healthcare-management dataset and explains their analytical roles.
 
-**[View Data Dictionary →](docs/Data_Dictionary.md)**
+**[View Data Dictionary →](Data_Dictionary.md)**
 
 ---
 
@@ -445,11 +445,11 @@ Healthcare-Management-PowerBI/
 
 ### Documentation
 
-* **[Data Dictionary →](docs/Data_Dictionary.md)**
-* **[Data Quality Assessment →](docs/Data_Quality.md)**
-* **[Methodology →](docs/Methodology.md)**
-* **[DAX Measures →](docs/DAX_Measures.md)**
-* **[Detailed Key Findings →](docs/Key_Findings.md)**
+* **[Data Dictionary →](Data_Dictionary.md)**
+* **[Data Quality Assessment →](Data_Quality.md)**
+* **[Methodology →](Methodology.md)**
+* **[DAX Measures →](DAX_Measures.md)**
+* **[Detailed Key Findings →](Key_Findings.md)**
 
 ---
 
